@@ -1,0 +1,32 @@
+# Data
+
+This folder contains information related to the dataset used for the Retail Banking Financial Performance & Benchmarking Dashboard.
+
+## Data Source
+
+The financial information used in the project was collected from publicly available bank financial reports and disclosures.
+
+The project covers selected Indian banks across multiple financial years and financial KPIs.
+
+## Data Preparation
+
+The source information was organized and standardized before being incorporated into the Power BI analytical model.
+
+The preparation process included:
+
+- Organizing bank-level financial information
+- Standardizing bank names
+- Standardizing financial year information
+- Standardizing KPI names
+- Structuring metric values
+- Consolidating bank-level datasets
+- Data transformation using Power Query
+- Validation and preparation using Excel
+
+## Data Privacy
+
+The project uses publicly available financial information. No confidential customer, account, transaction, or personally identifiable information is included.
+
+## Note
+
+The dataset supports the analysis presented in the Power BI dashboard. The calculated benchmark represents the banks included in the project dataset and should not be interpreted as a benchmark for the entire Indian banking industry.
